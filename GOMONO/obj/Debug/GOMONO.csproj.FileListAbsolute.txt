@@ -1,0 +1,7 @@
+/home/FrankOS/Projects/GOMONO/GOMONO/bin/GOMONO.dll
+/home/FrankOS/Projects/GOMONO/GOMONO/bin/GOMONO.pdb
+/home/FrankOS/Projects/GOMONO/GOMONO/obj/Debug/GOMONO.csprojResolveAssemblyReference.cache
+/home/FrankOS/Projects/GOMONO/GOMONO/obj/Debug/GOMONO.csproj.CoreCompileInputs.cache
+/home/FrankOS/Projects/GOMONO/GOMONO/obj/Debug/GOMONO.dll
+/home/FrankOS/Projects/GOMONO/GOMONO/obj/Debug/GOMONO.pdb
+/home/FrankOS/Projects/GOMONO/GOMONO/bin/MySql.Data.dll

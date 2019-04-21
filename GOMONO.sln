@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOMONO", "GOMONO\GOMONO.csproj", "{88A5E33E-2139-472D-A5F9-60881B244B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOMONO.Tests", "GOMONO.Tests\GOMONO.Tests.csproj", "{D0D8BDDE-280A-45D7-B4D8-4453949C87B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A5E33E-2139-472D-A5F9-60881B244B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A5E33E-2139-472D-A5F9-60881B244B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A5E33E-2139-472D-A5F9-60881B244B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A5E33E-2139-472D-A5F9-60881B244B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D8BDDE-280A-45D7-B4D8-4453949C87B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D8BDDE-280A-45D7-B4D8-4453949C87B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D8BDDE-280A-45D7-B4D8-4453949C87B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D8BDDE-280A-45D7-B4D8-4453949C87B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
